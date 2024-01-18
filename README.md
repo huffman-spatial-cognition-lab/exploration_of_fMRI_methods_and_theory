@@ -16,12 +16,10 @@ Please see the Wiki for more information about how to download the code, prepare
 https://github.com/huffman-spatial-cognition-lab/exploration_of_fMRI_methods_and_theory/wiki
 
 ## Citation and attribution for these notebooks
+These exercises were written by Derek J. Huffman with the base Nilearn tutorials as a starting point.
+
 If you find these notebooks to be helpful in your teaching, research, etc., then please cite the following sources:
 
 Huffman, D. J. (2024). An in-depth exploration of the interplay between fMRI methods and theory in cognitive neuroscience. *PsyArXiv.*
 
 Nilearn Contributors et al. (2023). nilearn. Available at: https://zenodo.org/record/8397156.
-
-Nilearn contributors et al. (2023). 
-
-These exercises were written by Derek J. Huffman with the base Nilearn tutorials as a starting point.
